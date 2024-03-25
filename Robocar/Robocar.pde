@@ -152,13 +152,13 @@ void arrowcheck0(){
   fill(0);
   stroke(0);
   textSize(20);
-  text("Robocar by 24학번 박건호", 1650, 880);
+  text("Robocar by 23학번 박건호", 1650, 880);
   fill(0);
   stroke(0);
     }
 void window1() {//compiler
     }
-    void arrowcheck1() {
+void arrowcheck1() {
   if (system.keyboardManager.isPressed('a')) {
     //cart.goRight();
   }  
