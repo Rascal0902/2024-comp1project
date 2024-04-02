@@ -1,0 +1,7 @@
+#robocarfile #time: 2024 / 4 / 2 / 18 : 35 : 43 
+goAhead(10)
+turnRight(3)
+goAhead(10)
+goAhead(10)
+booster(1)
+reset()
